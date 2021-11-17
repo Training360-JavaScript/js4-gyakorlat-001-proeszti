@@ -12,7 +12,6 @@ const sorterPromise = (arr = []) => new Promise((resolve, reject) => {
         reject("Error: Not all elements are string type!")
     }
 }
-
 )
 
 
